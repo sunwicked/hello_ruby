@@ -52,6 +52,8 @@ group :development do
 
   # Make errors better
   gem 'better_errors', '~> 2.6'
+
+  gem 'binding_of_caller'
 end
 
 group :test do
